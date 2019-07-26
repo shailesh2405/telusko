@@ -1,1 +1,1 @@
-# telusko
+# telko
